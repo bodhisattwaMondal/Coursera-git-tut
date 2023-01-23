@@ -1,2 +1,2 @@
 # Coursera-git-tut
-Coursera git tutorial by Google 
+Coursera git tutorial in the course Google IT Automation with Python
